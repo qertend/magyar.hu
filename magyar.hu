@@ -31,13 +31,13 @@
 
 //stdio
 #define nyomtatf printf
-#define bemásolf scanf
+#define skennelf scanf
 
 //könyvtárak
 #define stúdió <stdio.h>
 #define szabkönyv <stdlib.h>
 #define húrléc <string.h>
-#define matekh <math.h>
+#define matekléc <math.h>
 
 //main
 #define fő main
