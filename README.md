@@ -1,15 +1,17 @@
+
 # magyar.hu
-hogy használd: \
-  #include "magyar.hu" \
-ennyi. \
+## Hogy használd: 
+**Első lépés:** add hozzá ezt a sort a programod legtetején
+> #include "magyar.hu" 
 
-Példa:
+ennyi. 
 
-´#include "magyar.hu"
-#include stúdió
+## Példa:
 
-egész fő(verem) {
-    nyomtatf("Helló Világ\n");
-    visszatér 0;
-}
-´
+    #include "magyar.hu"
+    #include stúdió
+    
+    egész fő(verem) {
+        nyomtatf("Helló Világ\n");
+        visszatér 0;
+    }
