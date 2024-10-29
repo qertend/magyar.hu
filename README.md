@@ -5,10 +5,11 @@ ennyi. \
 
 Példa:
 
-#include "magyar.hu"
+´#include "magyar.hu"
 #include stúdió
 
 egész fő(verem) {
     nyomtatf("Helló Világ\n");
     visszatér 0;
 }
+´
