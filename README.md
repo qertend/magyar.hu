@@ -15,3 +15,6 @@ ennyi.
         nyomtatf("Helló Világ\n");
         visszatér 0;
     }
+
+## Bővítsd kedvedre!
+Csak küldj egy "húzási kérvényt", és belerakom az újdonságaidat!
