@@ -4,7 +4,7 @@
 ## Hogy használd: 
 **Első lépés:** töltsd le a magyar.hu fájlt és rakd bele a projekted gyökérmappájába
 
-**Második lépés:** add hozzá ezt a sort a programod legtetejére
+**Második lépés:** írd be ezt a sort a programod legtetejére
 
     #include "magyar.hu" 
 
