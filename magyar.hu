@@ -1,0 +1,40 @@
+#define kar char
+#define húr char*
+#define egész int
+#define lebegő float
+#define dupla double
+#define aláíratlan unsigned
+#define rövid short
+#define hosszú long
+#define verem void
+#define töltött static
+#define mutató *
+
+#define típusvédelem typedef
+#define szerkezet struct
+
+#define visszatér return
+
+//feltételes
+#define ha if
+#define különben else
+#define cserél switch
+#define ügy case
+#define kitörés break
+#define ameddig while
+#define ciklus for
+
+//memória
+#define ingyen free
+#define mfoglalás malloc
+#define újrafoglalás realloc
+
+//stdio
+#define nyomtatf printf
+#define bemásolf scanf
+
+//main
+#define fő main
+
+//haha
+#define bogártalanító debugger
