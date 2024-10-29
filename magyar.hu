@@ -1,3 +1,4 @@
+//típusok
 #define kar char
 #define húr char*
 #define egész int
