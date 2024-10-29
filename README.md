@@ -5,8 +5,8 @@ ennyi. \
 
 Példa:
 
-#include <stdio.h>
 #include "magyar.hu"
+#include stúdió
 
 egész fő(verem) {
     nyomtatf("Helló Világ\n");
