@@ -1,4 +1,3 @@
-//típusok
 #define kar char
 #define húr char*
 #define egész int
@@ -34,8 +33,15 @@
 #define nyomtatf printf
 #define bemásolf scanf
 
+//könyvtárak
+#define stúdió <stdio.h>
+#define szabkönyv <stdlib.h>
+#define húrléc <string.h>
+#define matekh <math.h>
+
 //main
 #define fő main
+
 
 //haha
 #define bogártalanító debugger
