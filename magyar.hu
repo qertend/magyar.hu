@@ -10,6 +10,10 @@
 #define töltött static
 #define mutató *
 
+//operators
+#define megmeg ++
+#define bőlből --
+
 #define típusvédelem typedef
 #define szerkezet struct
 
@@ -31,13 +35,13 @@
 
 //stdio
 #define nyomtatf printf
-#define skennelf scanf
+#define bemásolf scanf
 
 //könyvtárak
 #define stúdió <stdio.h>
 #define szabkönyv <stdlib.h>
 #define húrléc <string.h>
-#define matekléc <math.h>
+#define matekh <math.h>
 
 //main
 #define fő main
